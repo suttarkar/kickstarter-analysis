@@ -30,10 +30,8 @@ During the analysis, we had a few challenges. Creating the formulas to fill the 
 
 Two conclusions can be made on the Outcomes based on Launch Date. First is that May is the best time to launch a campaign. Second is that December is the worst time to start a campaign.
 
-- What can you conclude about the Outcomes based on Goals?
+A conclusion I made from the Outcomes based on Goals is that Louise should stick to lower campaign goals(lower than 15000) since those tend to have a higher success rate.
 
+There are a few limitations that this dataset has. This dataset seems to be a legacy dataset since its data points are from 2009 to 2017. Newer data would be very useful as it would allow us to come up with recommendations more relevant to upcoming campaigns. This dataset also has a category called country, which we believe could benefit from being split into  subcategories like states, cities, etc. This would allow for better visualization and analysis that can in turn allow for the creation of more accurate reccomendations based on location. I also believe, generally, the dataset could have had a further breakdown of the categories and subcategories(ie. for plays it could be split into themes, hardware into home and office, etc.)
 
-There are a few limitations that this dataset has. This dataset seems to be a legacy dataset since its data points are from 2009 to 2017. Newer data would be very useful as it would allow us to come up with recommendations more relevant to upcoming campaigns. This dataset also has a category called country, which we believe could benefit from being split into  subcategories like states, cities, etc. This would allow for better visualization and analysis that can in turn allow for thecreation of more accurate reccomendations based on location.
-
-
-- What are some other possible tables and/or graphs that we could create?
+In this Project we saw the Outcomes by months, but if we viewed it by years it may give us a bigger picture view on how much the theater campaigns engagement has changed. We can also see how the outcomes are affected by the campaign duration (Date Ended-Date Started.)
